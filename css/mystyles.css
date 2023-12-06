@@ -1,0 +1,11 @@
+.mb-2{
+    width: 50px;
+}
+/* a style of h2 is a set thing, .mb-2 is a custom thing and needs to have a . */
+h2{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+    font-size:  ;
+}
+.darkcolor{
+    background-color: rgba(0, 0, 102, 0.967)!important;
+}
